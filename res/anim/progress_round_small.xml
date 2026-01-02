@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/progress_1small" />
+    <item android:duration="100" android:drawable="@drawable/progress_2small" />
+    <item android:duration="100" android:drawable="@drawable/progress_3small" />
+    <item android:duration="100" android:drawable="@drawable/progress_4small" />
+    <item android:duration="100" android:drawable="@drawable/progress_5small" />
+    <item android:duration="100" android:drawable="@drawable/progress_6small" />
+    <item android:duration="100" android:drawable="@drawable/progress_7small" />
+    <item android:duration="60" android:drawable="@drawable/progress_8small" />
+</animation-list>
