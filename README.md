@@ -13,24 +13,24 @@ Dieses Repository bietet eine modernisierte Version der **TT Monitor App** (Orig
 
 ## 🚀 Highlights
 * **Zukunftssicher:** Kompiliert mit SDK 24+, getestet und lauffähig bis **Android 16**.
-* **Hardware-Erhalt:** Reaktiviert Bluetooth-Körperwaagen von NearbyExpress auf aktueller Hardware.
-* **Modernisiert:** Anpassung an neue Berechtigungsmodelle und verbesserte Bluetooth-Stabilität.
+* **Hardware-Erhalt:** Reaktiviert Bluetooth-Körperwaagen auf aktueller Hardware.
+* **Unterstützte Modelle:** Optimiert für Geräte wie die **TaoTronics TT-MX001** und baugleiche Modelle von NearbyExpress.
 
 ## 🛠 Build-Informationen & Tools
 Für maximale Transparenz wurde der folgende Stack verwendet:
 * **Decompiling & Build:** [Apktool](https://github.com/iBotPeaches/Apktool)
-* **Interface & Signatur:** [APKTool GUI v3.3.2.1](https://github.com/AndnixSH/APKToolGUI) von AndnixSH.
+* **Interface & Signatur:** [APKTool GUI v3.3.2.1](https://github.com/AndnixSH/APKToolGUI) (by AndnixSH)
 * **Basis:** Original Legacy APK von NearbyExpress Tech.
 
 ## 📱 Features
 * Drahtlose Datenübertragung via Bluetooth.
-* Automatisches Tracking von Körperwerten (Gewicht, etc.).
+* Automatisches Tracking von Körperwerten (Gewicht, BMI, etc.).
 * Historische Auswertung und Fortschrittsanzeige.
 
 ## 📥 Installation
 1. Lade die `TT_Monitor_v1.01.014.apk` aus dem [Releases](../../releases) Bereich herunter.
 2. Aktiviere "Installation aus unbekannten Quellen" in deinen Android-Einstellungen.
-3. Starte die App, gewähre die Bluetooth-Berechtigungen und verbinde deine Waage.
+3. Starte die App, gewähre die Bluetooth-Berechtigungen (unter Android 16 ggf. "Geräte in der Nähe") und verbinde deine Waage.
 
 ---
-*Disclaimer: Dies ist ein unabhängiges Community-Projekt. Alle Markenrechte liegen bei den ursprünglichen Eigentümern (NearbyExpress Tech).*
+*Disclaimer: Dies ist ein unabhängiges Community-Projekt zur Erhaltung der Hardware-Kompatibilität. Alle Markenrechte liegen bei den ursprünglichen Eigentümern (NearbyExpress Tech / TaoTronics).*
